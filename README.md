@@ -19,4 +19,5 @@
 </div>
 
 ##
-![snake animation](https://github.com/DevEngenheiro/DevEngenheiro/blob/output/github-contribution-grid-snake2.svg)
+
+![Snake animation](https://github.com/DevEngenheiro/DevEngenheiro/blob/output/github-contribution-grid-snake.svg)
